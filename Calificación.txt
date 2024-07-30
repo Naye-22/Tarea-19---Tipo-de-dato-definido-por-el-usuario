@@ -1,0 +1,3 @@
+Calificación: 2.2/3
+No ha llamado a la función leer libro
+Falta: Qué es un tipo de dato definido por el usuario?
